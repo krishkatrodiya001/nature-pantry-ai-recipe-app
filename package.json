@@ -1,0 +1,19 @@
+{
+  "name": "nature-pantry",
+  "description": "Nature's Pantry is a straightforward web application where users can add ingredients to a list and generate recipes.",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest",
+    "react-markdown": "latest",
+    "vite": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "*"
+  }
+}
