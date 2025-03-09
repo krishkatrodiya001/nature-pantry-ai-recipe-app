@@ -26,7 +26,7 @@ The responsive design ensures the application is accessible on various devices, 
 Overall, Nature's Pantry effectively showcases the power of React and Vite in creating modern and engaging user interfaces.
 
 ## Demo Site
-Access the [Nature's Pantry - Coming Soon](TBA) web application and try the features.
+Access the [Nature's Pantry](http://kathleenwest.github.io/nature-pantry-ai-recipe-app) web application and try the features.
 
 ## Demo Video
 Watch the [Nature's Pantry - Coming Soon](TBA) demo video to see the application in action.
