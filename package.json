@@ -1,11 +1,14 @@
 {
   "name": "nature-pantry",
+  "homepage": "http://kathleenwest.github.io/nature-pantry-ai-recipe-app",
   "description": "Nature's Pantry is a straightforward web application where users can add ingredients to a list and generate recipes.",
   "scripts": {
     "start": "vite",
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "react": "latest",
@@ -14,6 +17,7 @@
     "vite": "latest"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "*"
+    "@vitejs/plugin-react": "*",
+    "gh-pages": "^6.3.0"
   }
 }
