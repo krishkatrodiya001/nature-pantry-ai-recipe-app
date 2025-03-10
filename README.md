@@ -32,9 +32,9 @@ Overall, Nature's Pantry effectively showcases the power of React and Vite in cr
 Access the [Nature's Pantry](http://kathleenwest.github.io/nature-pantry-ai-recipe-app) web application and try the features.
 
 ## Demo Video
-Watch the [Nature's Pantry - Marketing Video](https://youtube.com/shorts/uv9ClVK1ZCw) demo video to see the application in action.
+Watch the [Nature's Pantry - Short Marketing Demo Video](https://youtube.com/shorts/uv9ClVK1ZCw) see the application in action.
 
-<iframe width="560" height="315" src="https://youtube.com/shorts/uv9ClVK1ZCw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Watch the [Nature's Pantry - Demo Video](https://youtu.be/RV6-eI0bBwg) (larger) to see the application in action.
 
 
 ## Features
