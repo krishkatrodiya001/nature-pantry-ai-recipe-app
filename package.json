@@ -14,7 +14,8 @@
     "react": "latest",
     "react-dom": "latest",
     "react-markdown": "latest",
-    "vite": "latest"
+    "vite": "latest",
+    "puter": "latest"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "*",
