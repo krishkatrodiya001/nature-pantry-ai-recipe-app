@@ -1,5 +1,8 @@
 # 🌲 Nature's Pantry 😋
 
+![Picture of Nature's Pantry Recipe Web app](images/demo.png)
+
+
 - [🌲 Nature's Pantry 😋](#-natures-pantry-)
   - [About](#about)
   - [Demo Site](#demo-site)
