@@ -31,6 +31,9 @@ export default function Main() {
         easier to render to a web page. Please give me a recipe you'd 
         recommend I make! The list of ingredients from nature is as follows ${ingredients} . `;
        
+        // Make the user sign-in
+        await window.puter.auth.signIn();
+
         // Get the response from the AI
         const response= await window.puter.ai.chat(prompt);
 
