@@ -78,7 +78,7 @@ State management is handled using React's `useState` hook within the `Main` comp
 - `loadingRecipe`: A boolean indicating whether the recipe is being loaded.
 
 ## External Services
-The application interacts with an external AI service to generate recipes based on the ingredients provided by the user. 
+The application interacts with an external AI service, Puter, to generate recipes based on the ingredients provided by the user. Users need to authenticate (seemless) with Puter via a pop-up window (freemium) to use the AI services.
 
 ## References
 Inspired by [Scrimba](https://scrimba.com/) course [Learn React](https://scrimba.com/learn-react-c0e)
